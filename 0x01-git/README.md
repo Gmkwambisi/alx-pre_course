@@ -1,2 +1,2 @@
  git
-my readme is uptodate
+my readme is uptodate now
